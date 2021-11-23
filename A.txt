@@ -1,0 +1,3 @@
+https://gitlab.com/ichanism/a.git
+https://gitlab.com/ichanism/b.git
+https://gitlab.com/ichanism/c.git
